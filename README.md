@@ -1,2 +1,2 @@
-# Coal-Exploaraion
+# Coal-Exploration
 A study of coal data.
